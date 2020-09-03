@@ -1,0 +1,113 @@
+Wednesday,02,September,2020,19:50:40:00009
+VCDS -- Windows Based VAG/VAS Emulator Running on Windows 10 x64
+VCDS Version: 19.6.1.0
+Data version: 20190529 DS308.0
+www.Ross-Tech.com
+
+
+VIN: WVWZZZ9NZ4Y076868   License Plate: GL01DSA
+Mileage: 159200km-98922mi   Repair Order: erori-sterse
+
+
+Chassis Type: 9N (9N - VW Polo (2002 > 2010))
+Scan: 01 02 03 08 09 15 17 19 25 37 44 45 46 56 76
+ 
+VIN: WVWZZZ9NZ4Y076868   Mileage: 159200km-98922miles
+-------------------------------------------------------------------------------
+Address 01: Engine        Labels: 03E-906-033-AZQ.lbl
+   Part No: 03E 906 033 L
+   Component: 1.2l/4V SIMOS3  00HS4726  
+   Coding: 00071
+   Shop #: WSC 00788  
+   VCID: 295948A3D3F92B07EE-515A
+   WVWZZZ9NZ4Y076868     VWZ7Z0C7364073
+
+No fault code found.
+Readiness: 1110 0101
+
+-------------------------------------------------------------------------------
+Address 03: ABS Brakes        Labels: 6Q0-907-37x-ABS2.lbl
+   Part No: 6Q0 907 379 L
+   Component: ABS FRONT MK60      0101  
+   Coding: 0001097
+   Shop #: WSC 00788 785 00200
+   VCID: 4683E31F32A7E47FE3-515A
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 08: Auto HVAC        Labels: 6Q0-820-045.lbl
+   Part No: 6Q0 820 045 
+   Component: Klimaanlage        X0840  
+   VCID: 6ADB77AF167FE01F27-5178
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 09: Cent. Elect.        Labels:. 6Qx-937-049-C.lbl
+   Part No: 6Q1 937 049 C
+   Component: 00 BN-SG.           1S33  
+   Coding: 25742
+   Shop #: WSC 00788  
+   VCID: 3B7582EB2965A9978C-515A
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 15: Airbags        Labels: 6Q0-909-605-VW5.lbl
+   Part No: 1C0 909 605 K
+   Component: 18 AIRBAG VW51 0P   0008  
+   Coding: 12600
+   Shop #: WSC 00788  
+   VCID: 2C57B1B7DC0B3E2F15-515A
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 17: Instruments        Labels: 6Q0-920-xxx-17.lbl
+   Part No: 6Q0 920 800 P
+   Component: KOMBI+WEGFAHRSP VDO V18  
+   Coding: 01131
+   Shop #: WSC 00000  
+   VCID: 3A7B87EF265F909F97-515A
+   WVWZZZ9NZ4Y076868     VWZ7Z0C7364073
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 19: CAN Gateway        Labels: 6N0-909-901-19.lbl
+   Part No: 6N0 909 901 
+   Component: 09 GATEWAY  CAN    1S33  
+   Coding: 00014
+   Shop #: WSC 00788  
+   VCID: 70EF65C730A31ACF69-5178
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 44: Steering Assist        Labels: 6Q0-423-156.clb
+   Part No: 6Q0 423 156 S
+   Component: LenkhilfeTRW        V260  
+   Coding: 10140
+   Shop #: WSC 00788  
+   VCID: 3F8DF6FB3D7DB5B7A0-5178
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 46: Central Conv.        Labels:. 6Q0-959-433.clb
+   Part No: 6Q0 959 433 H
+   Component: 1G Komfortgerát     0002  
+   Coding: 00067
+   Shop #: WSC 00788  
+   VCID: 408FF5074083CA4FD9-4B18
+
+   Subsystem 1 - Part No: 6Q2959802A
+   Component: 1G Tõrsteuer.FS TFK 0004  
+
+   Subsystem 2 - Part No: 6Q2959801A
+   Component: 1G Tõrsteuer.BF TFK 0004  
+
+No fault code found.
+
+End-------------------------(Elapsed Time: 03:04)--------------------------
